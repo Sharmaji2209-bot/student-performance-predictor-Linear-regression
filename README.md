@@ -61,3 +61,4 @@ For a student who studies **4.5 hours**:
 
 ```bash
 Predicted Score: 58.5
+---
