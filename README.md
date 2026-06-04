@@ -61,12 +61,12 @@ For a student who studies **4.5 hours**:
 
 ```bash
 Predicted Score: 58.5
----
-## 📉 Visualization
+
+## 📊 Visualization
 
 The graph below shows the relationship between study hours and exam score.
 
-- Blue dots represent actual data points
-- The line represents the Linear Regression model prediction
+- Blue dots represent actual data points  
+- The line represents the Linear Regression model prediction  
 
 ![Graph](graph.png)
