@@ -58,8 +58,6 @@ MAE measures the average difference between actual and predicted values.
 ## 🔮 Prediction Example
 
 For a student who studies **4.5 hours**:
-
-```bash
 Predicted Score: 58.5
 
 ## 📊 Visualization
