@@ -68,3 +68,11 @@ The graph below shows the relationship between study hours and exam score.
 - The line represents the Linear Regression model prediction  
 
 ![Graph](graph.png)
+
+## ▶️ How to Run
+
+1. Install libraries:
+pip install pandas scikit-learn matplotlib
+
+2. Run:
+python project.py
